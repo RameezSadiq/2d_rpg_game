@@ -17,7 +17,5 @@ Uferdig innhold: Spillet er ikke ferdigstilt, så du kan støte på mangler elle
 ![image5](377462896-dcd55882-2c40-4511-8624-4c8ba44218c8.jpg)
 ![image6](377463449-feae64e1-7474-4b19-b6e8-bc6f1e94979f.jpg)
 ![image7](377463513-177e33c5-b268-4308-b294-47b4b5f81fe5.jpg)
-![image6](377463588-648daa2b-f686-428d-bd87-84e891cf6d65.jpg)
-La til screenshots for ReadMe
-7 minutes ago
-377463623-269f037d-a562-4481-801a-b6af64799706.jpg
+![image9](377463588-648daa2b-f686-428d-bd87-84e891cf6d65.jpg)
+![image10](377463623-269f037d-a562-4481-801a-b6af64799706.jpg)
