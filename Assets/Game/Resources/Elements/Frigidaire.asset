@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6d2245f23bc3514e9309f18bacf72ae, type: 3}
+  m_Name: Frigidaire
+  m_EditorClassIdentifier: 
+  name: Frigidaire
+  elementInformation: 
+  elemImageFront: {fileID: 139314503, guid: 7542153d6b09b124088c3c528207e82a, type: 3}
+  elemImageBack: {fileID: 1438614783, guid: 7542153d6b09b124088c3c528207e82a, type: 3}
+  Type1: 6
+  Type2: 0
+  Gender: 1
+  maxHp: 22
+  attack: 15
+  defense: 14
+  magicDefense: 10
+  magic: 22
+  speed: 19
+  expAmountGiven: 170
+  growthRate: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 422ba522584d16d4eb7fbc58266d8857, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2589af27ee9e1a54e9b88b28eefa2b38, type: 2}
+    level: 2

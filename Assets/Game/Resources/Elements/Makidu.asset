@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6d2245f23bc3514e9309f18bacf72ae, type: 3}
+  m_Name: Makidu
+  m_EditorClassIdentifier: 
+  name: Makidu
+  elementInformation: 
+  elemImageFront: {fileID: -1347018654, guid: 7542153d6b09b124088c3c528207e82a, type: 3}
+  elemImageBack: {fileID: -900383053, guid: 7542153d6b09b124088c3c528207e82a, type: 3}
+  Type1: 9
+  Type2: 0
+  Gender: 0
+  maxHp: 10
+  attack: 52
+  defense: 15
+  magicDefense: 4
+  magic: 5
+  speed: 30
+  expAmountGiven: 230
+  growthRate: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2589af27ee9e1a54e9b88b28eefa2b38, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: cc26f064112afb945a8bfcc9aa32b660, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 2589af27ee9e1a54e9b88b28eefa2b38, type: 2}
+    level: 5
