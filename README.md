@@ -10,7 +10,7 @@ Viktig informasjon Vær oppmerksom på at dette kun er en demo, og spillet er fo
 
 Uferdig innhold: Spillet er ikke ferdigstilt, så du kan støte på mangler eller uferdige funksjoner. Ingen healing: Det er foreløpig ingen måte å heale elementene dine på. Ingen meny: Det finnes ingen spillmeny i demoen. For å avslutte spillet, må du enten tape i en kamp eller trykke Alt + F4.
 
-![image1](377462529-4a41ae2e-ef86-414c-96e3-2e366156ce76.jpg)
+![image1](images/377462529-4a41ae2e-ef86-414c-96e3-2e366156ce76.jpg)
 ![image2](377462709-43705487-21bc-454a-839d-e5eba8e36b3c.jpg)
 ![image3](377462767-3c974726-f893-48ff-afbf-a218850886a2.jpg)
 ![image4](377462838-0a717134-f366-4674-8abf-50a0586351ef.jpg)
